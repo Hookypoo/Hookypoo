@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hookypoo
 - 👀 I’m interested in web-development, Robotics, Automation, Electronics and coding in general.
 - 🌱 I’m currently learning React, react-native with expo.
-- 💞️ I’m looking to collaborate on ...web-development and Application projects of any kinda.
+- 💞️ I’m looking to collaborate on ...web-development and Application projects of any kind.
 - 📫 How to reach me ...forde.hugh@yahoo.com.....hughfored14@gmail.com.
 
 <!---
